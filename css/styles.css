@@ -29,6 +29,16 @@ body {
 
 /* Styles for lists in the document */
 
+.cool-text {
+	color: #20cc54;
+
+text-align: center;
+
+font-style: bold;
+
+text-decoration: underline #222f5a;
+}
+
 .biography-details li::before, .skill-list li::before {
 	content: ">";
 	font-weight: 800;
