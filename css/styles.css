@@ -30,13 +30,12 @@ body {
 /* Styles for lists in the document */
 
 .cool-text {
-	color: #20cc54;
+	color: #2b4383;
 
-text-align: center;
+text-align: left;
 
 font-style: bold;
 
-text-decoration: underline #222f5a;
 }
 
 .biography-details li::before, .skill-list li::before {
